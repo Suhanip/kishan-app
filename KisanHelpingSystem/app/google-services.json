@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "601482747234",
+    "firebase_url": "https://khs2019.firebaseio.com",
+    "project_id": "khs2019",
+    "storage_bucket": "khs2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601482747234:android:6d7abf2cb08483b0",
+        "android_client_info": {
+          "package_name": "com.example.kisanhelpingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601482747234-6jalsdc7vpoair17m1t7nt9askimg8qb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisanhelpingsystem",
+            "certificate_hash": "0083177e9c4ac5ae22d9d511892bfbc177cce9c8"
+          }
+        },
+        {
+          "client_id": "601482747234-89pkkgpd0spg4oedmh98i8te9p9tkcvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisanhelpingsystem",
+            "certificate_hash": "33fb88a55288296f70098672e5726f5d10e0b92b"
+          }
+        },
+        {
+          "client_id": "601482747234-sl96009tgu5619sv3ht4rtogeseivgcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMyAFQKT5BpOf-K92btSw7DbguMygM5-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601482747234-sl96009tgu5619sv3ht4rtogeseivgcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

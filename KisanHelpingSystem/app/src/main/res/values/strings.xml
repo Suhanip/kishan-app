@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kisan Helping System</string>
+    <string name="phone_number">phone number</string>
+    <string name="login">login</string>
+</resources>
